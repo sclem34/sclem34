@@ -9,7 +9,8 @@
 
 <h2>Certifications</h2>
 
-- [Presales Academy Solutions Consultant](https://cf-us1.mindtickle.com/1412872914049937324/public-content/1728066344738appoutputcertificate6m2JKOUiCt.pngyfAd.png)  
+- [Presales Academy Solutions Consultant](https://cf-us1.mindtickle.com/1412872914049937324/public-content/1728066344738appoutputcertificate6m2JKOUiCt.pngyfAd.png)
+- [CompTIA Security+](https://drive.google.com/file/d/16rFXCpeIWOh_HI3Zoq1LAjn-XLIZO8nh/view?usp=drive_link) 
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -19,7 +20,6 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -29,7 +29,6 @@
 [linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
