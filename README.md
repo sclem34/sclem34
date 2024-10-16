@@ -1,13 +1,13 @@
 <h1>Hi, I'm Shar'na! <br/><a href="https://github.com/sclem34">Cybersecurity Professional</a> and <a href="https://www.linkedin.com/in/shar-na-cl/">Solutions Consultant</a></h1>
 
-<h2>Cybersecurity Projects:</h2>
+<h2>💻Cybersecurity Projects:</h2>
 
 - <b>Put Cyber Project here</b>
   - [Active Directory Lab](https://github.com//Algorithms-Practice)
 - <b>Next Proj</b>
   - [Image Analysis Middleware](https <b><i>(Potentially NSFW)</b></i>
 
-<h2>Certifications</h2>
+<h2>📂Certifications</h2>
 
 - [Presales Academy Solutions Consultant](https://cf-us1.mindtickle.com/1412872914049937324/public-content/1728066344738appoutputcertificate6m2JKOUiCt.pngyfAd.png)
 - [CompTIA Security+](https://drive.google.com/file/d/16rFXCpeIWOh_HI3Zoq1LAjn-XLIZO8nh/view?usp=drive_link)
@@ -15,19 +15,19 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Quick Intro About Me](https://www.youtube.com/watch?v=EyqjbuL_o4Y&ab_channel=LifeofSerendipity)
 
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SharClement | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="SharClement | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SharClement | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://linkedin.com/in/shar-na-cl
 
 <!--
 
