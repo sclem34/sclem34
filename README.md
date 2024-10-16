@@ -10,7 +10,8 @@
 <h2>Certifications</h2>
 
 - [Presales Academy Solutions Consultant](https://cf-us1.mindtickle.com/1412872914049937324/public-content/1728066344738appoutputcertificate6m2JKOUiCt.pngyfAd.png)
-- [CompTIA Security+](https://drive.google.com/file/d/16rFXCpeIWOh_HI3Zoq1LAjn-XLIZO8nh/view?usp=drive_link) 
+- [CompTIA Security+](https://drive.google.com/file/d/16rFXCpeIWOh_HI3Zoq1LAjn-XLIZO8nh/view?usp=drive_link)
+- [CompTIA Network+](https://drive.google.com/file/d/1JyEHsUiuRiKX6NQWuiSccFyFkd9djYnx/view?usp=sharing) 
 
 <h2>📺 Popular YouTube Videos</h2>
 
