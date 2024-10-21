@@ -3,7 +3,7 @@
 <h2>💻Cybersecurity Projects:</h2>
 
 - [Navigating Linux Permissions](https://github.com/sclem34/linproj/blob/main/README.md)
-- [Image Analysis Middleware](https <b><i>(Potentially NSFW)</b></i>
+- [Risk Assessment](https://github.com/sclem34/riskproj/blob/main/README.md)
 
 <h2>📂Certifications</h2>
 
