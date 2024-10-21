@@ -2,10 +2,8 @@
 
 <h2>💻Cybersecurity Projects:</h2>
 
-- <b>Put Cyber Project here</b>
-  - [Navigating Linux Permissions](https://github.com/sclem34/linproj/blob/main/README.md)
-- <b>Next Proj</b>
-  - [Image Analysis Middleware](https <b><i>(Potentially NSFW)</b></i>
+- [Navigating Linux Permissions](https://github.com/sclem34/linproj/blob/main/README.md)
+- [Image Analysis Middleware](https <b><i>(Potentially NSFW)</b></i>
 
 <h2>📂Certifications</h2>
 
