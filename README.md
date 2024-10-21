@@ -3,7 +3,7 @@
 <h2>💻Cybersecurity Projects:</h2>
 
 - <b>Put Cyber Project here</b>
-  - [Active Directory Lab](https://github.com//Algorithms-Practice)
+  - [Navigating Linux Permissions](https://github.com/sclem34/linproj/blob/main/README.md)
 - <b>Next Proj</b>
   - [Image Analysis Middleware](https <b><i>(Potentially NSFW)</b></i>
 
