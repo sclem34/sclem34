@@ -16,18 +16,18 @@
 - [Quick Intro About Me](https://www.youtube.com/watch?v=EyqjbuL_o4Y&ab_channel=LifeofSerendipity)
 
 
-<h2> 🤳 Connect with me:</h2>
+<!--<h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="SharClement | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="SharClement | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SharClement | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[youtube]: https://www.youtube.com/
+[instagram]: https://www.instagram.com/
 [linkedin]: https://linkedin.com/in/shar-na-cl
 
-<!--
+
 
 Here are some ideas to get you started:
 
