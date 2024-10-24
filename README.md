@@ -4,6 +4,7 @@
 
 - [Navigating Linux Permissions](https://github.com/sclem34/linproj/blob/main/README.md)
 - [Risk Assessment](https://github.com/sclem34/riskproj/blob/main/README.md)
+- [Updating a file using Python](https://github.com/sclem34/riskproj/blob/main/README.md)
 
 <h2>📂Certifications</h2>
 
